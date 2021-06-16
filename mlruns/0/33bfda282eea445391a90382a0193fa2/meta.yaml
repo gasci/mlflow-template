@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gokasci/Desktop/winequality-mlflow/mlruns/0/33bfda282eea445391a90382a0193fa2/artifacts
+end_time: 1622967911892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 33bfda282eea445391a90382a0193fa2
+run_uuid: 33bfda282eea445391a90382a0193fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622967911886
+status: 3
+tags: []
+user_id: gokasci
